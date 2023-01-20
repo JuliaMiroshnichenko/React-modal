@@ -1,2 +1,2 @@
 # React-modal
-Modal-window_ReactJS
+## Modal-window_ReactJS
